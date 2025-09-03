@@ -1,0 +1,21 @@
+.button {
+  width: 300px;
+}
+.small {
+  height: 50px;
+}
+.medium {
+  height: 100px;
+}
+.large {
+  height: 150px;
+}
+
+.primary {
+  background-color: red;
+  color: blue;
+}
+.secondary {
+  background-color: blue;
+  color: red;
+}
